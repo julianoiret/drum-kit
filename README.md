@@ -1,3 +1,3 @@
 ## JavaScript project
 
-![screenshot](images/drum-kit.png)
+![screenshot](img/drum-kit.png)
